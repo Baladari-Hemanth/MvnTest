@@ -1,0 +1,5 @@
+package Enums;
+
+public enum BrowserType {
+	FIREFOX_DRIVER, INTERNET_EXPLORER_DRIVER, CHROME_DRIVER, HTMLUNIT_DRIVER
+}

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="91462" started-at="2019-08-22T09:48:25Z" finished-at="2019-08-22T09:49:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="91462" started-at="2019-08-22T09:48:25Z" finished-at="2019-08-22T09:49:57Z">
+      <class name="com.Hemanth.H_ReusableCode.DataDrivenFramework">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="setup" is-config="true" duration-ms="6504" started-at="2019-08-22T09:48:26Z" finished-at="2019-08-22T09:48:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="showData(java.lang.String, java.lang.String)[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="showData" duration-ms="6323" started-at="2019-08-22T09:48:32Z" data-provider="excelConfigData" finished-at="2019-08-22T09:48:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass72]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="tearDown" is-config="true" duration-ms="51" started-at="2019-08-22T09:48:38Z" finished-at="2019-08-22T09:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="setup" is-config="true" duration-ms="5254" started-at="2019-08-22T09:48:38Z" finished-at="2019-08-22T09:48:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="showData(java.lang.String, java.lang.String)[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="showData" duration-ms="8265" started-at="2019-08-22T09:48:44Z" data-provider="excelConfigData" finished-at="2019-08-22T09:48:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="tearDown" is-config="true" duration-ms="2313" started-at="2019-08-22T09:48:52Z" finished-at="2019-08-22T09:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="setup" is-config="true" duration-ms="5402" started-at="2019-08-22T09:48:54Z" finished-at="2019-08-22T09:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="showData(java.lang.String, java.lang.String)[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="showData" duration-ms="6175" started-at="2019-08-22T09:49:00Z" data-provider="excelConfigData" finished-at="2019-08-22T09:49:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="tearDown" is-config="true" duration-ms="58" started-at="2019-08-22T09:49:06Z" finished-at="2019-08-22T09:49:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="setup" is-config="true" duration-ms="6448" started-at="2019-08-22T09:49:06Z" finished-at="2019-08-22T09:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="showData(java.lang.String, java.lang.String)[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="showData" duration-ms="6161" started-at="2019-08-22T09:49:12Z" data-provider="excelConfigData" finished-at="2019-08-22T09:49:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass32]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="tearDown" is-config="true" duration-ms="70" started-at="2019-08-22T09:49:19Z" finished-at="2019-08-22T09:49:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="setup" is-config="true" duration-ms="5246" started-at="2019-08-22T09:49:19Z" finished-at="2019-08-22T09:49:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="showData(java.lang.String, java.lang.String)[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="showData" duration-ms="9100" started-at="2019-08-22T09:49:24Z" data-provider="excelConfigData" finished-at="2019-08-22T09:49:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass43]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="tearDown" is-config="true" duration-ms="54" started-at="2019-08-22T09:49:33Z" finished-at="2019-08-22T09:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="setup" is-config="true" duration-ms="5352" started-at="2019-08-22T09:49:33Z" finished-at="2019-08-22T09:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="showData(java.lang.String, java.lang.String)[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="showData" duration-ms="6184" started-at="2019-08-22T09:49:38Z" data-provider="excelConfigData" finished-at="2019-08-22T09:49:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass56]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="tearDown" is-config="true" duration-ms="56" started-at="2019-08-22T09:49:45Z" finished-at="2019-08-22T09:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="setup" is-config="true" duration-ms="5665" started-at="2019-08-22T09:49:45Z" finished-at="2019-08-22T09:49:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="showData(java.lang.String, java.lang.String)[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="showData" duration-ms="6256" started-at="2019-08-22T09:49:50Z" data-provider="excelConfigData" finished-at="2019-08-22T09:49:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass66]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Hemanth.H_ReusableCode.DataDrivenFramework@17ed5ab]" name="tearDown" is-config="true" duration-ms="66" started-at="2019-08-22T09:49:57Z" finished-at="2019-08-22T09:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Hemanth.H_ReusableCode.DataDrivenFramework -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
